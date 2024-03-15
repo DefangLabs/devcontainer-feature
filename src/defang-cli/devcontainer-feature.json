@@ -3,7 +3,7 @@
     "id": "defang-cli",
     "version": "1.0.0",
     "description": "A devcontainer feature that installs the Defang CLI",
-    "installsAfter": [
-        "ghcr.io/devcontainers/features/common-utils"
-    ]
+    "dependsOn": {
+        "ghcr.io/devcontainers/features/common-utils": {}
+    }
 }

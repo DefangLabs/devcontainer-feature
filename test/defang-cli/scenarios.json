@@ -1,0 +1,8 @@
+{
+    "defang-cli": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "defang-cli": {}
+        }
+    }
+}

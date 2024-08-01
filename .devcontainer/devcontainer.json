@@ -14,7 +14,9 @@
             },
             "extensions": [
                 "mads-hartmann.bash-ide-vscode",
-                "eamodio.gitlens"
+                "eamodio.gitlens",
+                "github.vscode-github-actions",
+                "GitHub.copilot"
             ]
         }
     },
